@@ -1,5 +1,5 @@
 # Olá, eu sou Rafael Oliveira 👋
-
+https://www.pinterest.com/ideas/coding-gif-banner/929630361081/
 🎓 Engenharia de Computação
 💼 Analista de TI Sênior
 📚 Estudante de Desenvolvimento Full Stack
