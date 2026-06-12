@@ -1,5 +1,6 @@
 # Olá, eu sou Rafael Oliveira 👋
-https://www.pinterest.com/ideas/coding-gif-banner/929630361081/
+<img width="940" height="465" alt="87f3f1425b217691da645e97dbb50d55" src="https://github.com/user-attachments/assets/4e228c1a-282c-4a09-8f8b-9b1038f16514" />
+
 🎓 Engenharia de Computação
 💼 Analista de TI Sênior
 📚 Estudante de Desenvolvimento Full Stack
