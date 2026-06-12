@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Rafael Oliveira 👋
 
-<!--
-**Oliver-us/Oliver-us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenharia de Computação
+💼 Analista de TI Sênior
+📚 Estudante de Desenvolvimento Full Stack
+🔒 Interesses: Segurança da Informação, IA, Search Engines e Cloud
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Python
+- Java
+- Node.js
+- REST APIs
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Banco de Dados
+- PostgreSQL
+- MySQL
+- OpenSearch
+- Elasticsearch
+
+### Infraestrutura
+- Linux
+- Docker
+- Git
+- GitHub
+- VMware
+
+---
+
+## 📌 Projetos em Destaque
+
+### Jurídico Index
+Motor de indexação documental utilizando Python e OpenSearch.
+
+### Search Engine
+Ferramenta de busca corporativa para documentos jurídicos e administrativos.
+
+### PI Univesp
+Projeto acadêmico desenvolvido para a graduação.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: coloque aqui
+- Email: coloque aqui
